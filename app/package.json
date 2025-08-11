@@ -1,0 +1,21 @@
+{
+  "name": "hello-world-app",
+  "version": "1.0.0",
+  "description": "Express-based Hello World application with Prometheus metrics",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "prom-client": "^15.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  },
+  "keywords": ["express", "kubernetes", "prometheus", "metrics"],
+  "author": "Sai Ganesh DevOps Engineer ganipjs5@gmail.com",
+  "license": "MIT"
+} 
