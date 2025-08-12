@@ -2,7 +2,7 @@
 
 This repository contains a complete implementation of a cloud-native infrastructure and application deployment solution, demonstrating skills in Kubernetes, Docker, CI/CD, monitoring, security, and Infrastructure as Code.
 
-# Note : Since i Dont  have infra from  i have write indetails output and instraction here hopefully agree this. 
+# Note : Since i Dont  have infra from myside. i have writen indetail instraction steps and output here hopefully you agree this . 
 
 ## 📋 Table of Contents
 
